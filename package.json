@@ -1,0 +1,23 @@
+{
+	"name": "omniBypass",
+	"version": "1.0.0",
+	"description": "Detects ad blockers (AdBlock, ...)",
+	"author": {
+		"name" : "Amah Ajavon"
+	},
+	"license": "MIT",
+	"keywords": [
+		"adblock",
+		"advertising",
+		"ad",
+        "ads",
+		"block",
+		"lock",
+		"detection",
+		"detecting"
+	],
+	"main": "omniBypass.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
